@@ -1,0 +1,5 @@
+#阿里云OSS相关参数配置
+aliyun.oss.endpoint=https://oss-cn-shenzhen.aliyuncs.com
+aliyun.oss.accessKeyId=LTAI5tNQHEMByhMsFHVE4MV4
+aliyun.oss.accessKeySecret=NdufBYoBcZUy4hjjrcNQvW4TjZkHG8
+aliyun.oss.bucketName=web-project-qxp
